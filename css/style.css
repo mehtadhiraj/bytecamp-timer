@@ -1,0 +1,45 @@
+body{
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+}
+
+.counter{
+	display: block;
+	font-family: 'Orbitron', sans-serif;
+	color: #fff;
+	font-size: 5rem;
+	font-weight: bolder;
+	text-align: center;
+	margin-top: 6%;
+	margin-bottom: 5%;
+	text-align: center;
+	text-shadow:  0 0 20px #01C1C1, 0 0 30px #01C1C1, 0 0 40px #01C1C1, 0 0 55px #01C1C1, 0 0 75px #01C1C1;
+	animation: glow-grow 2s ease-out infinite;
+}
+
+.counter-begin{
+	text-shadow:  0 0 20px #01C1C1, 0 0 30px #01C1C1, 0 0 40px #01C1C1, 0 0 55px #01C1C1, 0 0 75px #01C1C1;
+	font-family: 'Orbitron', sans-serif;
+	color: #fff;
+}
+
+.row{
+	margin-top: 7%;
+}
+
+.mt-5{
+	margin-top: 50%;
+}
+
+.media-links{
+	letter-spacing: 3px;
+	color: #fff;
+	font-size: 1.5rem
+}
+
+#dates{
+	font-family: 'Orbitron', sans-serif;
+	color: #fff;
+	text-shadow:  0 0 20px #01C1C1, 0 0 30px #01C1C1;
+}
+
